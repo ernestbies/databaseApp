@@ -5,8 +5,8 @@
  */
 package gui;
 
-import databaseapp.Connect;
-import databaseapp.DatabaseData;
+import com.ernestbies.databaseapp.Connect;
+import com.ernestbies.databaseapp.DatabaseData;
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.FileInputStream;

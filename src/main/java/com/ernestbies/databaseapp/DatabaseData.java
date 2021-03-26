@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package databaseapp;
+package com.ernestbies.databaseapp;
 import java.io.Serializable;
 
 /**

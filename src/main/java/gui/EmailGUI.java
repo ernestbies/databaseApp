@@ -5,7 +5,7 @@
  */
 package gui;
 
-import databaseapp.SendEmail;
+import com.ernestbies.databaseapp.SendEmail;
 import java.util.ArrayList;
 import java.util.List;
 import javax.swing.DefaultListModel;

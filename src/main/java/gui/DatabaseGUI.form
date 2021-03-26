@@ -66,7 +66,7 @@
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="1" attributes="0">
                           <Component id="jButtonLoadFile" max="32767" attributes="0"/>
-                          <Component id="jPasswordFieldPass" pref="74" max="32767" attributes="0"/>
+                          <Component id="jPasswordFieldPass" max="32767" attributes="0"/>
                       </Group>
                   </Group>
                   <Group type="102" attributes="0">
